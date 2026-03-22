@@ -2,7 +2,7 @@
   "name": "myweb",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Huxting.github.io/MyWEB",
+  "homepage": "https://Huxting.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
